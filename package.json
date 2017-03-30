@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-require-bolit",
+  "name": "bootstrap-require-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple multi-page requirejs project",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
